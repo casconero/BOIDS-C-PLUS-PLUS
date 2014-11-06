@@ -1,0 +1,16 @@
+Boid/x64/
+Boid/Boid/x64/
+
+*.v11.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.obj
+*.pdb
+*.sdf
+*.opensdf
+*.suo
+*.tlog
+*.user
+*.ncb
+*.vcproj
